@@ -11,7 +11,7 @@
 
 ### Screenshot
 
-![](/src/images/scrnli_6_11_2023_12-20-22 PM.png)
+![](/src/images/screenshot.png)
 
 ### Links
 
@@ -35,7 +35,7 @@
 
 ### Screenshot
 
-![](/src/images/scrnli_6_11_2023_12-20-22 PM.png)
+![](/src/images/screenshot.png)
 
 ### Links
 
