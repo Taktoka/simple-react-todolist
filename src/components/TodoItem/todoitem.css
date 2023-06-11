@@ -1,0 +1,74 @@
+.ItemsList {
+  background-color: #cbb279;
+  padding: 20px;
+}
+
+.ItemsList .head {
+  background-color: #537188;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-transform: capitalize;
+}
+
+.ItemsList .head span {
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+}
+.ItemsList .head span:first-of-type {
+  width: 40%;
+}
+.ItemsList .head span:nth-child(2) {
+  width: 30%;
+}
+.ItemsList .head span:last-of-type {
+  width: 10%;
+}
+
+.ItemsList .Item {
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #fff;
+  color: #537188;
+  margin-top: 10px;
+}
+.ItemsList .Item span {
+  font-size: 17px;
+  font-weight: bold;
+}
+.ItemsList .Item span:first-of-type {
+  width: 40%;
+}
+.ItemsList .Item span:nth-child(2) {
+  width: 30%;
+}
+.ItemsList .Item span:last-of-type {
+  width: 10%;
+}
+.ItemsList .Item button {
+  border: none;
+  background-color: #537188;
+  color: #fff;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  border-radius: 50%;
+  cursor: pointer;
+  text-align: center;
+}
+
+.ItemsList .Item button:hover {
+  opacity: 0.8;
+}
+
+.Empty {
+  padding: 15px;
+  font-size: 23px;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+  margin: 0;
+}
